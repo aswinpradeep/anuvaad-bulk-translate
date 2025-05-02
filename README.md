@@ -20,7 +20,7 @@ Run the script:
 
 ```bash
 python3 translate_only_new.py
-````
+```
 
 ## 3. Digitization + Translation (Scanned Documents)
 
@@ -73,7 +73,7 @@ Alternatively, refer to similar language implementations in other files inside t
 ## 7. Output Handling
 
 * Translated documents will be generated in `.docx` format.
-* Compress the output `.docx` files into a `.zip` archive.
+* Compress the translated `.docx` files into a `.zip` archive.
 * Upload the `.zip` to the designated S3 bucket:
 
 ```
@@ -86,4 +86,4 @@ s3://anuvaad-raw-datasets/
 
 ---
 
-Credits to Rathan Muralidhar for the script.
+Acknowledgment: Rathan Muralidhar for contributing the script.
