@@ -83,3 +83,7 @@ s3://anuvaad-raw-datasets/
 ---
 
 © [Aswin Pradeep](https://github.com/aswinpradeep) | [GitHub Repo](https://github.com/aswinpradeep/anuvaad-bulk-translate)
+
+---
+
+Credits to Rathan Muralidhar for the script.
